@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background: #d2c9c9;
+}
+
+body {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.wrap>h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    font-size: 77px;
+    color: #37a237;
+}
+
+.wrap>p {
+    margin-top: 150px;
+}
+
+.tool {
+    color: rgb(56, 173, 56);
+}
